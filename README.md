@@ -1,4 +1,4 @@
-# latihan_calculator
+# interest-calculator-app
 
 Interest-calculator-app
 
