@@ -1,6 +1,6 @@
 # latihan_calculator
 
-A new Flutter project.
+Interest-calculator-app
 
 ## Getting Started
 
